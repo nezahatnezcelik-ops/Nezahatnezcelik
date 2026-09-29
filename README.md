@@ -3,7 +3,7 @@
 Temel amacı html kodlarıyla uğraşmadan yazarken metinleri biçimlendirip kolayca okunabilirlik sağlar.
 .md uzantısında saklanır ve her türlü uygulamada kolayca açılabilir.
 
-# syntax sözdizimi 
+# syntax sözdizimi örnekleri 
 # BAŞLIK
 ## alt başlık
 **kalın**
@@ -20,6 +20,13 @@ YA DA
 (URL)
 (www.blahblah.com)
 
+# README dosyası
+Bir yazılım projesinin amacını nasıl kurulacağını ve kullanılacağını anlatan okuma metnidir.
+
+# Proje versiyon sürümleri;
+Bir yazılımın yapılan değişiklikleri ve güncellemeleri düzenli bir şekilde takip etmek için kullanılan numaralandırma sistemidir.
+Her bir basamağın ne zaman ve nasıl artırılacağı belirli kurallara dayanır.
+MAJOR(BÜYÜK SÜRÜM), MINOR(KÜÇÜK SÜRÜM), PATCH(YAMA SÜRÜMÜ)
 
 Nezahat Nez Çelik 
 212 
